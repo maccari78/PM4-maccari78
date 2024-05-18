@@ -174,4 +174,4 @@ Me pidio implementar en el deleteUser que implementara un nuevo rol SuperAdmin q
     password: "ch4rlize",\
     birthdate: new Date("1975-08-07"),\
     roles: [Roles.ADMIN],\
-}\
+}
