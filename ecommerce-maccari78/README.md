@@ -154,24 +154,24 @@ Me pidio implementar en el deleteUser que implementara un nuevo rol SuperAdmin q
 - shippings (phone, name, address, city, postCode, state, country, id)
 - reviews (ratings, comment, createdAt, updatedAt, id, userId, productId)
 
-{
-    name: "Danilo Maccari",
-    email: "maccari78@gmail.com",
-    password: "n0m3nN3sc10",
-    birthdate: new Date("1978-07-12"),
-    roles: [Roles.SUPERADMIN],
-},
-{
-    name: "Keanu Reeves",
-    email: "keanu@gmail.com",
-    password: "k3anu",
-    birthdate: new Date("1964-09-02"),
-    roles: [Roles.USER],
-},
-{
-    name: "Charlize Theron",
-    email: "charlize@gmail.com",
-    password: "ch4rlize",
-    birthdate: new Date("1975-08-07"),
-    roles: [Roles.ADMIN],
-}
+{\
+    name: "Danilo Maccari",\
+    email: "maccari78@gmail.com",\
+    password: "n0m3nN3sc10",\
+    birthdate: new Date("1978-07-12"),\
+    roles: [Roles.SUPERADMIN],\
+},\
+{\
+    name: "Keanu Reeves",\
+    email: "keanu@gmail.com",\
+    password: "k3anu",\
+    birthdate: new Date("1964-09-02"),\
+    roles: [Roles.USER],\
+},\
+{\
+    name: "Charlize Theron",\
+    email: "charlize@gmail.com",\
+    password: "ch4rlize",\
+    birthdate: new Date("1975-08-07"),\
+    roles: [Roles.ADMIN],\
+}\
